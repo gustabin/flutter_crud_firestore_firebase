@@ -44,8 +44,8 @@ Para ejecutar este proyecto, asegúrate de tener instalado Flutter en tu máquin
 Este proyecto utiliza las siguientes dependencias:
 
 - `lib/services/`
- - `firebase_core`: Para inicializar Firebase.
- - `cloud_firestore`: Para acceder y manipular Firestore.
+  - `firebase_core`: Para inicializar Firebase.
+  - `cloud_firestore`: Para acceder y manipular Firestore.
 
 ## Contribuciones
 
