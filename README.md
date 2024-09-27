@@ -15,7 +15,7 @@ Para ejecutar este proyecto, asegúrate de tener instalado Flutter en tu máquin
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/gustabin/flutter_crud_firestore_firebase.git
    cd crud_firebase
    ```
 
